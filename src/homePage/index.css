@@ -1,0 +1,68 @@
+.table-container{
+    margin-top: 2rem;
+}
+.content-section{
+    box-shadow: 0 2px 14px rgb(38 60 85 / 16%);
+    background-color: #fff;
+    border-radius: 0.3125rem;
+}
+.table-data{
+    border-bottom: 1px solid #e5e5e5;
+    padding: 1rem;
+    font-weight: 500;
+}
+.table-data:last-child{
+    border-bottom: 0px;
+}
+.table-data:hover{
+    background-color: #d9d9d9;
+    border-radius: 3px;
+}
+.table-data p{
+    text-transform: capitalize;
+}
+.header-section{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: 600;
+}
+.user-img{
+    height: 36px;
+    background-color: #e7e7e7;
+    padding: 6px;
+    border-radius: 5px;
+}
+.table-container .search-icon{
+    position: absolute;
+    right: 1rem;
+    width: 23px;
+}
+.total-user{
+    color: #9b9b9b;
+    font-size: 21px;
+}
+.total-user span{
+    color: #444;
+    font-size: 1.5rem;
+}
+.viewlogs-btn{
+    background-color: #FCD535!important;
+    font-weight: 500!important;
+}
+.show-transaction-link .arrow-right-img{
+    width: 19px;
+    padding-left: 2px;
+}
+.show-transaction-link{
+    cursor: pointer;
+    color: #848E9C;
+}
+
+.show-transaction-link:hover{
+    color: #F0B90B;
+    color: #000;
+}
+.table-main{
+    border-top: 2px solid #dfdfdf;
+    margin-top: 1rem;
+}

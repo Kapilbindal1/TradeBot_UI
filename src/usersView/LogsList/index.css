@@ -1,0 +1,16 @@
+.logDescription{
+    padding: 0.7rem 1.5rem !important;
+}
+.show-transaction-link .arrow-right-img{
+    width: 19px;
+    padding-left: 2px;
+}
+.show-transaction-link{
+    cursor: pointer;
+    color: #848E9C;
+}
+
+.show-transaction-link:hover{
+    color: #F0B90B;
+    color: #000;
+}
